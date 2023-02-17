@@ -1,6 +1,6 @@
-package seegene.test.flux;
+package m3rri17.test.flux;
 
-import jakarta.servlet.Filter;
+import javax.servlet.Filter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
