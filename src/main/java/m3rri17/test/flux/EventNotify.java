@@ -1,4 +1,4 @@
-package seegene.test.flux;
+package m3rri17.test.flux;
 
 import lombok.Getter;
 import org.springframework.stereotype.Component;
